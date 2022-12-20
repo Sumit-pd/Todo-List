@@ -4,7 +4,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 const _ = require("lodash");
-const uri = "mongodb+srv://pdsumit07:123Bhutanmadharhcod098@sumit07.cvxgyo1.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://pdsumit07:<password>@sumit07.cvxgyo1.mongodb.net/?retryWrites=true&w=majority";
 
 
 
